@@ -1,4 +1,4 @@
-package uml_gaokai;
+package sj;
 
 import java.awt.*;
 import java.awt.event.*;
